@@ -2,7 +2,7 @@
 
 Description :
 
-AI SaaS Platform with Next.js 13, React, Tailwind, Prisma, Stripe, Clerk, OpenAPI, Replicate, PlanetScale, MySQL, TypeScript & Crisp
+It is an AI SaaS Platform built with NextJS and Tailwind.
 
 
 Features:
@@ -18,14 +18,12 @@ Features:
 - Conversation Generation Tool (Open AI)
 - Music Generation Tool (Replicate AI)
 - Page loading state
-- Stripe monthly subscription
-- Free tier with API limiting
 - POST, DELETE, and GET routes in route handlers (app/api)
 - Fetch data in server react components by directly accessing database
 - Handle relations between Server and Child components!
 - Reuseable layouts
 - Folder structure in Next 13 App Router
-- Beutiful Landing Page with Testimonials
+- Beutiful Landing Page
 
 ### Prerequisites
 
