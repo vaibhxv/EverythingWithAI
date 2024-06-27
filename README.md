@@ -1,4 +1,8 @@
-# AI SaaS Platform with Next.js 13, React, Tailwind, Prisma, Stripe, Clerk, OpenAPI, Replicate, PlanetScale, MySQL, TypeScript & Crisp
+# EverythingWithAI
+
+Description :
+
+AI SaaS Platform with Next.js 13, React, Tailwind, Prisma, Stripe, Clerk, OpenAPI, Replicate, PlanetScale, MySQL, TypeScript & Crisp
 
 
 Features:
