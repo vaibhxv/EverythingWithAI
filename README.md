@@ -1,6 +1,5 @@
 # AI SaaS Platform with Next.js 13, React, Tailwind, Prisma, Stripe, Clerk, OpenAPI, Replicate, PlanetScale, MySQL, TypeScript & Crisp
 
-Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac)
 
 Features:
 
@@ -31,7 +30,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/ai-saas.git
+git clone https://github.com/vaibhxv/EverythingWithAI.git
 ```
 
 ### Run with yarn zero install
